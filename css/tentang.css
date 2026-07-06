@@ -1,0 +1,114 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f5f5f5;
+    padding-top:70px;
+}
+
+
+.navbar{
+    background:#fff;
+    border:0;
+    border-radius:0;
+    box-shadow:0 2px 10px rgba(0,0,0,.15);
+}
+
+.navbar-brand{
+    font-size:28px;
+    font-weight:bold;
+    color:#6D4C41 !important;
+}
+
+.navbar-brand span{
+    color:#D4A017;
+}
+
+.navbar-nav>li>a{
+    font-weight:bold;
+    color:#444 !important;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+
+.navbar-nav>.active>a{
+    background:#6D4C41 !important;
+    color:#fff !important;
+}
+
+.header{
+    background:#6D4C41;
+    color:white;
+    padding:90px 20px;
+    text-align:center;
+}
+
+.header h1{
+    font-size:48px;
+    font-weight:bold;
+}
+
+.header p{
+    font-size:18px;
+}
+
+.about{
+    padding:60px 0;
+}
+
+.about img{
+    border-radius:10px;
+    box-shadow:0 4px 15px rgba(0,0,0,.2);
+}
+
+.about h2{
+    color:#6D4C41;
+    font-weight:bold;
+    margin-bottom:20px;
+}
+
+.about p{
+    font-size:16px;
+    line-height:30px;
+    text-align:justify;
+}
+
+
+.box{
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 3px 12px rgba(0,0,0,.15);
+    margin-bottom:30px;
+    min-height:280px;
+}
+
+.box h3{
+    color:#6D4C41;
+    font-weight:bold;
+}
+/* ================= Pengembang Website ================= */
+
+.thumbnail{
+    border:none;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+    padding:20px;
+    transition:.3s;
+}
+
+.thumbnail:hover{
+    transform:translateY(-8px);
+    box-shadow:0 10px 25px rgba(0,0,0,.25);
+}
+
+.thumbnail img{
+    border:5px solid #D4A017;
+}
+
+.thumbnail h3{
+    color:#6D4C41;
+    font-weight:bold;
+}
+
+.thumbnail p{
+    font-size:15px;
+}

@@ -1,0 +1,138 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f5f5f5;
+    padding-top:70px;
+}
+
+
+.navbar{
+    background:#fff;
+    border:0;
+    border-radius:0;
+    box-shadow:0 2px 10px rgba(0,0,0,.15);
+}
+
+.navbar-brand{
+    font-size:28px;
+    font-weight:bold;
+    color:#6D4C41 !important;
+}
+
+.navbar-brand span{
+    color:#D4A017;
+}
+
+.navbar-nav>li>a{
+    font-weight:bold;
+    color:#444 !important;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+
+.navbar-nav>.active>a{
+    background:#6D4C41 !important;
+    color:#fff !important;
+}
+
+
+.header{
+    background:#6D4C41;
+    color:white;
+    text-align:center;
+    padding:70px 20px;
+}
+
+.header h1{
+    font-size:45px;
+    font-weight:bold;
+}
+
+.kontak{
+    background:white;
+    padding:50px 30px;
+    border-radius:10px;
+    box-shadow:0 3px 15px rgba(0,0,0,.15);
+    margin-top:40px;
+}
+
+.kontak{
+    background:#fff;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 3px 15px rgba(0,0,0,.15);
+    margin-top:30px;
+}
+
+.kontak h4{
+    font-weight:bold;
+    margin-bottom:20px;
+}
+
+.kontak{
+    background:#fff;
+    border-radius:12px;
+    padding:25px;
+    box-shadow:0 4px 12px rgba(0,0,0,.15);
+    min-height:520px;
+}
+
+.kontak h3{
+    font-weight:bold;
+    color:#6D4C41;
+    margin-top:0;
+    margin-bottom:20px;
+}
+
+.kontak p{
+    font-size:16px;
+    line-height:1.8;
+    margin-bottom:20px;
+}
+
+.kontak span.glyphicon{
+    color:#6D4C41;
+    font-size:18px;
+}
+
+iframe{
+    width:100%;
+    height:420px;
+    border:0;
+    border-radius:10px;
+}
+
+.btn-success{
+    font-size:16px;
+    padding:12px;
+}
+iframe{
+    width:100%;
+    height:350px;
+    border:0;
+    border-radius:8px;
+}
+
+.info{
+    margin-bottom:25px;
+}
+
+.info span{
+    font-size:30px;
+    color:#6D4C41;
+}
+
+.info h4{
+    font-weight:bold;
+    margin-top:10px;
+}
+
+.btn-kirim{
+    background:#6D4C41;
+    color:white;
+}
+
+.btn-kirim:hover{
+    background:#4E342E;
+    color:white;
+}
+
